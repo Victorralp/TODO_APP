@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # TODO_APP
 Flutter Todo App with Hive Storage
 
@@ -70,3 +71,21 @@ Data Flow:
 
 
 This Flutter todo app with Hive implementation offers a smooth, responsive user experience while ensuring efficient local data storage. The use of Hive allows for quick data access and updates, making the app performant even with a large number of todos.
+=======
+# todo_app
+
+A new Flutter project.
+
+## Getting Started
+
+This project is a starting point for a Flutter application.
+
+A few resources to get you started if this is your first Flutter project:
+
+- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
+- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+
+For help getting started with Flutter development, view the
+[online documentation](https://docs.flutter.dev/), which offers tutorials,
+samples, guidance on mobile development, and a full API reference.
+>>>>>>> 8675d72 (Initial commit)
